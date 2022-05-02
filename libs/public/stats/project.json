@@ -1,0 +1,23 @@
+{
+  "root": "libs/public/stats",
+  "sourceRoot": "libs/public/stats/src",
+  "projectType": "library",
+  "tags": [],
+  "targets": {
+    "lint": {
+      "executor": "@nrwl/linter:eslint",
+      "outputs": ["{options.outputFile}"],
+      "options": {
+        "lintFilePatterns": ["libs/public/stats/**/*.{ts,tsx,js,jsx}"]
+      }
+    },
+    "test": {
+      "executor": "@nrwl/jest:jest",
+      "outputs": ["coverage/libs/public/stats"],
+      "options": {
+        "jestConfig": "libs/public/stats/jest.config.ts",
+        "passWithNoTests": true
+      }
+    }
+  }
+}

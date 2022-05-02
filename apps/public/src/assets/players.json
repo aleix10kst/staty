@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Binta",
+    "lastName": "Drammeh",
+    "number": 2,
+    "imageUrl": "https://www.unigirona.cat/wp-content/uploads/2021/09/BINTA-EUROLLIGA-150x170.png",
+    "nationality": "Sweden",
+    "position": "Escorta"
+  },
+  {
+    "name": "Laia",
+    "lastName": "Palau",
+    "number": 3,
+    "imageUrl": "https://www.unigirona.cat/wp-content/uploads/2021/09/PALAU-EUROLLIGA-150x170.png",
+    "position": "Base",
+    "nationality": "Catalana"
+  },
+  {
+    "name": "Frida",
+    "lastName": "Eldebrink",
+    "number": 6,
+    "imageUrl": "https://www.unigirona.cat/wp-content/uploads/2020/09/ELDEBRINK-FEB-e1601455139863-150x170.png",
+    "nationality": "Sweden",
+    "position": "Escorta"
+  },
+  {
+    "name": "Maria",
+    "lastName": "Araújo",
+    "number": 8,
+    "imageUrl": "https://www.unigirona.cat/wp-content/uploads/2020/09/ARA%C3%9AJO-FEB-e1601455076510-150x170.png",
+    "nationality": "Espanyola",
+    "position": "Ala-pívot"
+  },
+  {
+    "name": "Laia",
+    "lastName": "Flores",
+    "number": 10,
+    "imageUrl": "https://www.unigirona.cat/wp-content/uploads/2021/09/FLORES-EUROLLIGA-150x170.png",
+    "nationality": "Catalana",
+    "position": "Base"
+  },
+  {
+    "name": "Iho",
+    "lastName": "López",
+    "number": 11,
+    "imageUrl": "https://www.unigirona.cat/wp-content/uploads/2021/09/IHO-EUROLLIGA-150x170.png",
+    "nationality": "Espanyola",
+    "position": "Pívot"
+  },
+  {
+  "name": "Magali",
+  "lastName": "Mendy",
+  "number": 4,
+  "imageUrl": "https://www.unigirona.cat/wp-content/uploads/2022/01/mendi-2-174x170.png",
+  "nationality": "Francesa",
+  "position": "Escorta"
+  },
+  {
+    "name": "Rebekah",
+    "lastName": "Gardner",
+    "number": 35,
+    "imageUrl": "https://www.unigirona.cat/wp-content/uploads/2021/09/REBEKAH-EUROLLIGA-150x170.png",
+    "nationality": "Americana",
+    "position": "Escorta"
+  },
+  {
+    "name": "Julia",
+    "lastName": "Reisingerová",
+    "number": 44,
+    "imageUrl": "https://www.unigirona.cat/wp-content/uploads/2021/09/REISINGEROVA-EUROLLIGA-150x170.png",
+    "nationality": "República Txeca",
+    "position": "Pívot"
+  },
+  {
+    "name": "Giedre",
+    "lastName": "Labuckiene",
+    "number": 77,
+    "imageUrl": "https://www.unigirona.cat/wp-content/uploads/2021/09/LABUCKIENE-EUROLLIGA-150x170.png",
+    "nationality": "Lituania",
+    "position": "Pívot"
+  },
+  {
+    "name": "Kennedy",
+    "lastName": "Burke",
+    "number": 22,
+    "imageUrl": "https://www.unigirona.cat/wp-content/uploads/2022/01/burke-2-150x170.png",
+    "nationality": "Americana",
+    "position": "Aler"
+  }
+]

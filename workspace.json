@@ -1,4 +1,10 @@
 {
   "version": 2,
-  "projects": {}
+  "projects": {
+    "public": "apps/public",
+    "public-fitxtures": "libs/public/fitxtures",
+    "public-home": "libs/public/home",
+    "public-roster": "libs/public/roster",
+    "public-stats": "libs/public/stats"
+  }
 }
